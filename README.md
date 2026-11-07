@@ -102,4 +102,8 @@ Obrigado a todos que testarem a tradução, reportarem erros, sugerirem melhoria
 
 A ideia é que a tradução possa evoluir com a colaboração de todos. Se encontrar algo estranho, avise; se souber como melhorar, contribua!
 
+## Doações
+Quem quiser dar um apoio, deixo aqui meu Pix, mas não se sinta obrigado a fazer, só faça se quiser!!
+<img width="280" height="280" alt="qrcode-pix" src="https://github.com/user-attachments/assets/bc8f1c9d-9d60-480b-96ff-65bc1b65384d" />
+
 **Bom jogo!** 🇧🇷
