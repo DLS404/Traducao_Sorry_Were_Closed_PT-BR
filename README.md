@@ -6,10 +6,6 @@ Tradução para português brasileiro (*PT-BR*) do jogo **Sorry We're Closed**, 
 
 Este é um projeto de tradução comunitária e não oficial de *Sorry We're Closed*.
 
-A tradução foi feita com o auxílio de **inteligência artificial (IA)**, com o objetivo de adaptar os textos para o português brasileiro. Apesar dos esforços para manter o sentido original, o tom dos personagens e a naturalidade dos diálogos, podem existir erros de tradução, inconsistências, problemas de contexto ou trechos que ainda precisam de melhorias.
-
-Por isso, toda contribuição é bem-vinda! ❤️
-
 ## 📥 Downloads e instalação
 
 O projeto disponibilizará duas opções para baixar a tradução, para que você possa escolher a que melhor atende às suas necessidades.
@@ -79,7 +75,6 @@ Se preferir, você também pode simplesmente abrir uma Issue com suas sugestões
 ## ⚠️ Avisos
 
 - Este projeto é uma tradução **não oficial**, feita por fãs.
-- A tradução foi produzida com auxílio de inteligência artificial e pode conter erros.
 - O objetivo é melhorar continuamente a qualidade do texto com a ajuda da comunidade.
 - *Sorry We're Closed* e seus elementos originais pertencem aos seus respectivos criadores e detentores dos direitos.
 - Este projeto não possui vínculo oficial com os desenvolvedores ou distribuidores do jogo.
