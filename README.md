@@ -51,6 +51,22 @@ Se quiser compartilhar suas melhorias com a comunidade, fique à vontade para fa
 
 ---
 
+## Compatibilidade
+
+Esta tradução foi desenvolvida principalmente para a **versão de PC de Sorry We're Closed disponível na Epic Games Store**.
+
+Embora o projeto tenha como referência essa versão, existe a possibilidade de a tradução também funcionar nas versões distribuídas por outras plataformas, desde que utilizem uma estrutura de arquivos compatível.
+
+Plataformas:
+
+- **Epic Games Store:** versão principal utilizada no desenvolvimento e nos testes da tradução.
+- **Steam:** pode funcionar, mas a compatibilidade ainda não foi confirmada.
+- **GOG:** pode funcionar, mas a compatibilidade ainda não foi confirmada.
+
+**Importante:** não é possível garantir o funcionamento em todas as versões do jogo. Diferenças nos arquivos, atualizações ou na estrutura de instalação podem exigir adaptações.
+
+Caso teste a tradução em outra plataforma e encontre algum problema, você pode reportá-lo na aba [Issues](../../issues), informando qual versão do jogo está utilizando.
+
 ## Encontrou algum erro na tradução?
 
 Se encontrar algum problema, como uma frase mal traduzida, um texto sem sentido, erros gramaticais ou algum trecho que não combine com a situação do jogo, você pode reportá-lo na aba **[Issues](../../issues)**.
