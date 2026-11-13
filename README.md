@@ -1,47 +1,61 @@
-# 🇧🇷 Sorry We're Closed — Tradução PT-BR
+# Sorry We're Closed — Tradução PT-BR
 
-Tradução para português brasileiro (*PT-BR*) do jogo **Sorry We're Closed**, feita para tornar a experiência mais acessível a quem prefere jogar em português.
+Tradução para português brasileiro (PT-BR) do jogo **Sorry We're Closed**, desenvolvida para tornar a experiência mais acessível aos jogadores que preferem jogar em português.
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
-Este é um projeto de tradução comunitária e não oficial de *Sorry We're Closed*.
+Este é um projeto de tradução comunitária e não oficial de Sorry We're Closed.
 
-## 📥 Downloads e instalação
+O objetivo é traduzir os textos do jogo para português brasileiro, preservando o contexto dos diálogos, a personalidade dos personagens e a naturalidade das expressões.
 
-O projeto disponibilizará duas opções para baixar a tradução, para que você possa escolher a que melhor atende às suas necessidades.
+A tradução contou com o auxílio de inteligência artificial na etapa inicial, seguido de revisão humana para corrigir erros de adaptação, ajustar expressões e tornar os textos mais naturais e adequados ao contexto do jogo.
 
-### 🛠️ Instalador — `Traducao_SWC_PT-BR.exe`
+## Downloads e instalação
+
+Os arquivos da tradução estão disponíveis na seção **[Releases](../../releases)** deste repositório.
+
+Existem duas opções de download, destinadas a diferentes tipos de usuários.
+
+### Instalador — `Traducao_SWC_PT-BR.exe`
 
 Recomendado para quem deseja apenas instalar a tradução e jogar em português.
 
-1. Baixe o instalador na seção **[Releases](../../releases)** deste repositório.
-2. Execute o arquivo e siga as instruções apresentadas.
-3. Abra o jogo e confira se a tradução foi aplicada corretamente.
+1. Acesse a seção [Releases](../../releases) deste repositório.
+2. Abra a versão mais recente disponível.
+3. Na seção **Assets**, baixe o arquivo `Traducao_SWC_PT-BR.exe`.
+4. Execute o instalador e siga as instruções apresentadas.
+5. Abra o jogo e confira se a tradução foi aplicada corretamente.
 
-### 📦 Arquivos da tradução — `.zip`
+**Esta é a opção recomendada para a maioria dos jogadores.**
 
-O repositório também disponibilizará um arquivo ZIP contendo os arquivos modificados para criar esta tradução.
+### Arquivos da tradução — `.zip`
+
+Também será disponibilizado um arquivo ZIP contendo os arquivos utilizados na criação da tradução.
 
 Essa opção é destinada principalmente a quem deseja:
 
 - Modificar ou corrigir as traduções existentes.
 - Adaptar os textos de acordo com suas próprias preferências.
-- Estudar como a tradução foi feita.
+- Estudar como a tradução foi desenvolvida.
 - Criar uma versão própria ou contribuir para melhorar o projeto.
 
-Você pode extrair o ZIP, editar os arquivos necessários e testar suas alterações no jogo. Se quiser compartilhar suas melhorias com a comunidade, fique à vontade para fazer um **fork** e enviar um **Pull Request**.
+Você pode extrair o ZIP, editar os arquivos necessários e testar suas alterações no jogo.
+
+Se quiser compartilhar suas melhorias com a comunidade, fique à vontade para fazer um **fork** e enviar um **Pull Request**.
 
 > **Importante:** o ZIP contém os arquivos da tradução para edição, não um instalador. Para aplicar as alterações manualmente, pode ser necessário substituir os arquivos correspondentes na instalação do jogo.
 
 **Recomendação:** antes de instalar a tradução ou modificar os arquivos do jogo, faça uma cópia de segurança dos arquivos originais.
 
-Os downloads serão disponibilizados na seção **[Releases](../../releases)** quando estiverem prontos.
+**Atenção:** não utilize o botão Code → Download ZIP para baixar a tradução pronta. Os pacotes destinados aos jogadores estão disponíveis na seção [Releases](../../releases).
 
-## 🐛 Encontrou algum erro na tradução?
+---
 
-Se encontrar algum erro, como uma frase mal traduzida, um texto sem sentido, erros gramaticais ou algum trecho que não combine com a situação do jogo, você pode reportá-lo na aba **[Issues](../../issues)**.
+## Encontrou algum erro na tradução?
 
-**Sempre que possível, inclua uma captura de tela (*print*) mostrando o erro dentro do jogo.** Isso ajuda bastante a identificar a frase, entender o contexto e localizar o trecho correto nos arquivos da tradução.
+Se encontrar algum problema, como uma frase mal traduzida, um texto sem sentido, erros gramaticais ou algum trecho que não combine com a situação do jogo, você pode reportá-lo na aba **[Issues](../../issues)**.
+
+Sempre que possível, inclua uma captura de tela (print) mostrando o erro dentro do jogo. Isso ajuda bastante a identificar a frase, entender o contexto e localizar o trecho correto nos arquivos da tradução.
 
 Ao abrir uma Issue, procure informar:
 
@@ -52,7 +66,7 @@ Ao abrir uma Issue, procure informar:
 
 Não precisa preencher tudo perfeitamente. Qualquer informação que ajude a localizar e corrigir o problema já é útil!
 
-## 🤝 Quer ajudar a melhorar a tradução?
+## Quer ajudar a melhorar a tradução?
 
 Fique à vontade para contribuir!
 
@@ -72,39 +86,43 @@ Toda contribuição que ajude a deixar a tradução mais natural, consistente e 
 
 Se preferir, você também pode simplesmente abrir uma Issue com suas sugestões, sem precisar modificar os arquivos.
 
-## ⚠️ Avisos
+## Avisos
 
 - Este projeto é uma tradução **não oficial**, feita por fãs.
 - O objetivo é melhorar continuamente a qualidade do texto com a ajuda da comunidade.
-- *Sorry We're Closed* e seus elementos originais pertencem aos seus respectivos criadores e detentores dos direitos.
+- Sorry We're Closed e seus elementos originais pertencem aos respectivos criadores e detentores dos direitos.
 - Este projeto não possui vínculo oficial com os desenvolvedores ou distribuidores do jogo.
 
-## 🛡️ Aviso sobre o Windows Defender
+## Aviso sobre o Windows Defender
 
 Ao executar o instalador, o Windows Defender ou o SmartScreen pode exibir um alerta de segurança. Isso pode acontecer com programas pouco conhecidos ou que não possuem assinatura digital reconhecida.
 
 **Esse alerta, por si só, não significa necessariamente que o arquivo seja malicioso.** No entanto, também não é possível garantir que um arquivo seja seguro apenas por ser um instalador de tradução.
 
-Se isso acontecer, recomendamos verificar se o arquivo foi baixado diretamente da seção [Releases](../../releases) deste repositório e conferir os resultados de uma verificação de segurança antes de executá-lo.
+Se isso acontecer, recomendamos:
 
-Caso o antivírus identifique uma ameaça específica, não ignore o alerta automaticamente. Avise por meio da aba [Issues](../../issues) para que o problema possa ser investigado.
+1. Verificar se o arquivo foi baixado diretamente da seção [Releases](../../releases) deste repositório.
+2. Conferir os resultados de uma verificação de segurança antes de executá-lo.
+3. Caso o antivírus identifique uma ameaça específica, não ignore o alerta automaticamente.
+
+Se encontrar algum problema, avise por meio da aba [Issues](../../issues) para que a situação possa ser investigada.
 
 A segurança de quem utiliza a tradução é importante, e qualquer relato desse tipo será bem-vindo.
 
-## 💖 Agradecimentos
+## Agradecimentos
 
 Obrigado a todos que testarem a tradução, reportarem erros, sugerirem melhorias ou contribuírem com modificações.
 
 A ideia é que a tradução possa evoluir com a colaboração de todos. Se encontrar algo estranho, avise; se souber como melhorar, contribua!
 
 ## Doações
-Quem quiser dar um apoio, deixo aqui meu Pix, mas não se sinta obrigado a fazer, só faça se quiser!!
-<img 
-  width="280" 
-  height="280" 
-  alt="QR Code Pix" 
-  src="https://github.com/user-attachments/assets/bc8f1c9d-9d60-480b-96ff-65bc1b65384d"
-  align="left"
-/>
 
-**Bom jogo!** 🇧🇷
+Se você gostou do projeto e quiser dar um apoio financeiro, pode contribuir voluntariamente pelo Pix.
+
+Não existe nenhuma obrigação de doar. Qualquer contribuição será bem-vinda e ajudará a incentivar a continuidade de projetos de tradução como este.
+
+<img width="200" alt="QR Code Pix" src="https://github.com/user-attachments/assets/bc8f1c9d-9d60-480b-96ff-65bc1b65384d" />
+
+---
+
+**Bom jogo!**
